@@ -77,6 +77,8 @@ Both applications use middleware functions to handle server communication, data 
 
 ## Architecture/Layer Diagram for Each of the Apps Including the Middleware
 
+![Screenshot 2024-07-16 130512](https://github.com/user-attachments/assets/eeb44971-0c1b-46d3-8e8c-736b73b5950f)
+
 
 ## List of URL Endpoints Middleware RESTful/SOAP/Socket
 1. `http://localhost/RESTFUL/FetchFromDB.php`
