@@ -1,3 +1,12 @@
+Group 30 Members
+
+VISHAALL KANAGASABAI (B032210418)
+MUHAMMAD FAIQ SYAHMI BIN MAYUDIN (B032210295)
+Syahmi Faiz Bin Arman(B032210429)
+MOHAMAD AZRI BIN AZMAN (B032210270)
+
+------
+
 DAD Project – Bike Rental
 
 Total Applications involved for this project.  
