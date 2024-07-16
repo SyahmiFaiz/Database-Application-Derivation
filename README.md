@@ -126,6 +126,7 @@ iv. Summary
 
 Architecture/Layer diagram for each of the apps including the middleware 
 
+![Screenshot 2024-07-16 130512](https://github.com/user-attachments/assets/3eefe96a-28b1-4224-aba0-16860e85bd9b)
 
 
 
